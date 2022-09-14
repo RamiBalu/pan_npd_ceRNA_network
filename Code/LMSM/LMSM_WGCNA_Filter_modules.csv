@@ -1,0 +1,3 @@
+"","#miRNAs regulating ceRNAs","#miRNAs regulating mRNAs","#Shared miRNAs","#Background miRNAs","Sig. p.value of sharing miRNAs","Canonical correlation of ceRM-mRM pairs","Canonical correlation of miRM-mRM pairs","Canonical correlation of miRM-ceRM pairs","Partial canonical correlation of ceRM-mRM pairs","Sensitivity canonical correlation of ceRM-mRM pairs"
+"LMSM 1",16,19,16,116,0,0.980641781754162,0.890328982647352,0.90489293091825,0.902932683678174,0.077709098075988
+"LMSM 2",8,18,8,116,6.88777066493174e-08,0.968819691979929,0.825088801333156,0.831386493035378,0.900891050084345,0.0679286418955847
