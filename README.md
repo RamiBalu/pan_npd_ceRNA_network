@@ -1,5 +1,5 @@
-# lncRNA-related miRNA sponge modules across neuropsychiatric disorders (ASD,SCZ, and BD)
-**Inferring lncRNA-related miRNA sponge module across neuropsychiatric disorders **
+# INFERRING miRNA SPONGE MODULES ACROSS MAJOR NEUROPSYCHIATRIC DISORDERS
+lncRNA-related miRNA sponge modules across neuropsychiatric disorders (ASD,SCZ, and BD)
 
 
 Table S1. Datasets used to build the pan-neuropsychiatric disorder transcriptome
